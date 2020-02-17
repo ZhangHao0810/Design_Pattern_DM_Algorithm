@@ -1,4 +1,4 @@
-package Ullmann_Refinement.graph.bean;
+package Ullmann_Refinement.bean;
  
 import java.util.ArrayList;
  

@@ -1,4 +1,4 @@
-package Ullmann_Refinement.graph.bean;
+package Ullmann_Refinement.bean;
 public class VertexBean { 
 	//“v i j” 表示图的顶点i的label是j 
 	/** 图的数据格式

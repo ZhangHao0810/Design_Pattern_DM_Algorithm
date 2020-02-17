@@ -1,4 +1,4 @@
-package Ullmann_Refinement.graph.bean;
+package Ullmann_Refinement.bean;
  
 public class EdgeBean {
 	//“e i j k” 表示图的边<i,j>的label是k 

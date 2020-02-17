@@ -1,8 +1,8 @@
-package Ullmann_Refinement.graph.action;
+package Ullmann_Refinement.action;
 
-import Ullmann_Refinement.graph.bean.EdgeBean;
-import Ullmann_Refinement.graph.bean.GraphBean;
-import Ullmann_Refinement.graph.bean.VertexBean;
+import Ullmann_Refinement.bean.EdgeBean;
+import Ullmann_Refinement.bean.GraphBean;
+import Ullmann_Refinement.bean.VertexBean;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -325,8 +325,8 @@ public class IsomorphismImpl {
         IsomorphismImpl ii = new IsomorphismImpl();
         String queryFile = "src/Ullmann_Refinement/Adapter.txt";
         String dbFile = "src/Ullmann_Refinement/Junit_P3.txt";
-//		String queryFile = "graphDB/Q16.my";
-//		String dbFile ="graphDB/mygraphdb.data";
+//		String queryFile = "src/Ullmann_Refinement/graphDB/Q16.my";
+//		String dbFile ="src/Ullmann_Refinement/graphDB/mygraphdb.data";
 
         try {
             ii.initGraphDB(queryFile, dbFile);
