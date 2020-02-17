@@ -1,0 +1,4 @@
+<ralations>
+    <ralation name=" Dependency " source=" Adapter " target=" Target " >
+    <ralation name=" Association " source=" Adapter " target=" Adaptee " >
+</ralations> 

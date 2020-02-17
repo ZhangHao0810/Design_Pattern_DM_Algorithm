@@ -1,0 +1,31 @@
+<ralations>
+    <ralation name=" Generalization " source=" TestSetup " target=" TestDecorator " >
+    <ralation name=" Generalization " source=" TestDecorator " target=" Assert " >
+    <ralation name=" Generalization " source=" RepeatedTest " target=" TestDecorator " >
+    <ralation name=" Generalization " source=" ActiveTestSuite " target=" TestSuite " >
+    <ralation name=" Dependency " source=" TestDecorator " target=" Test " >
+    <ralation name=" Association " source=" TestDecorator " target=" Test " >
+    <ralation name=" Generalization " source=" TestCase " target=" Assert " >
+    <ralation name=" Generalization " source=" ComparisonFailure " target=" AssertionFailedError " >
+    <ralation name=" Dependency " source=" TestSuite " target=" Test " >
+    <ralation name=" Dependency " source=" TestCase " target=" Test " >
+    <ralation name=" Dependency " source=" OldTestClassAdaptingListener " target=" TestListener " >
+    <ralation name=" Dependency " source=" BaseTestRunner " target=" TestListener " >
+    <ralation name=" Dependency " source=" ResultPrinter " target=" TestListener " >
+    <ralation name=" Dependency " source=" JUnit4TestAdapter " target=" Test " >
+    <ralation name=" Dependency " source=" JUnit4TestCaseFacade " target=" Test " >
+    <ralation name=" Dependency " source=" JUnit4TestCaseFacade " target=" Describable " >
+    <ralation name=" Dependency " source=" JUnit4TestAdapter " target=" Sortable " >
+    <ralation name=" Dependency " source=" JUnit4TestAdapter " target=" Filterable " >
+    <ralation name=" Dependency " source=" JUnit4TestAdapter " target=" Describable " >
+    <ralation name=" Association " source=" JUnit4TestAdapter " target=" JUnit4TestAdapterCache " >
+    <ralation name=" Association " source=" TestResult " target=" TestFailure " >
+    <ralation name=" Association " source=" TestResult " target=" TestListener " >
+    <ralation name=" Association " source=" TestResult " target=" TestFailure " >
+    <ralation name=" Association " source=" TestFailure " target=" Test " >
+    <ralation name=" Association " source=" JUnit38ClassRunner " target=" Test " >
+    <ralation name=" Association " source=" JUnit4TestCaseFacade " target=" Description " >
+    <ralation name=" Association " source=" JUnit4TestAdapter " target=" Runner " >
+    <ralation name=" Generalization " source=" TestRunner " target=" BaseTestRunner " >
+    <ralation name=" Association " source=" TestRunner " target=" ResultPrinter " >
+</ralations> 

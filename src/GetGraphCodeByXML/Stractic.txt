@@ -1,0 +1,4 @@
+<ralations>
+    <ralation name=" Dependency " source=" NormalStrategy " target=" Strategy " >
+    <ralation name=" Association " source=" Context " target=" Strategy " >
+</ralations> 

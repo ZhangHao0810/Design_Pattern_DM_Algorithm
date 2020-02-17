@@ -1,0 +1,5 @@
+<ralations>
+    <ralation name=" Generalization " source=" CarDecoratorImpl " target=" AttachedPropertiesDecorator " >
+    <ralation name=" Dependency " source=" AttachedPropertiesDecorator " target=" Man " >
+    <ralation name=" Association " source=" AttachedPropertiesDecorator " target=" Man " >
+</ralations> 

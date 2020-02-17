@@ -1,0 +1,4 @@
+<ralations>
+    <ralation name=" Generalization " source=" Composite " target=" Component " >
+    <ralation name=" Generalization " source=" Left " target=" Component " >
+</ralations> 

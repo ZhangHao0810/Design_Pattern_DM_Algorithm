@@ -1,0 +1,4 @@
+<ralations>
+    <ralation name=" Association " source=" Facade " target=" SubSystem01 " >
+    <ralation name=" Association " source=" Facade " target=" SubSystem02 " >
+</ralations> 

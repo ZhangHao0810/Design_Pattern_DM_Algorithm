@@ -1,0 +1,5 @@
+<ralations>
+    <ralation name=" Generalization " source=" ConcreteSubject " target=" Subject " >
+    <ralation name=" Dependency " source=" ConcreteObserver1 " target=" Observer " >
+    <ralation name=" Association " source=" Subject " target=" Observer " >
+</ralations> 

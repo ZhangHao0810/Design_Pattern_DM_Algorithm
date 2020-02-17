@@ -1,0 +1,5 @@
+<ralations>
+    <ralation name=" Dependency " source=" ProxyStar " target=" Star " >
+    <ralation name=" Dependency " source=" RealStar " target=" Star " >
+    <ralation name=" Association " source=" ProxyStar " target=" Star " >
+</ralations> 

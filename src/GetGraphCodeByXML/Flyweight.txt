@@ -1,0 +1,4 @@
+<ralations>
+    <ralation name=" Generalization " source=" UnsharedConcreteFlyweight " target=" Flyweight " >
+    <ralation name=" Generalization " source=" ConcreteFlyweight " target=" Flyweight " >
+</ralations> 

@@ -1,0 +1,5 @@
+<ralations>
+    <ralation name=" Generalization " source=" RefinedAbstraction " target=" Abstraction " >
+    <ralation name=" Dependency " source=" ConcreteImplementorA " target=" Implementor " >
+    <ralation name=" Association " source=" Abstraction " target=" Implementor " >
+</ralations> 

@@ -1,0 +1,5 @@
+<ralations>
+    <ralation name=" Generalization " source=" EatingState " target=" AntFarmState " >
+    <ralation name=" Association " source=" EatingState " target=" AntFarmContext " >
+    <ralation name=" Association " source=" AntFarmContext " target=" AntFarmState " >
+</ralations> 

@@ -1,0 +1,4 @@
+<ralations>
+    <ralation name=" Generalization " source=" Bouilli " target=" DodishTemplate " >
+    <ralation name=" Generalization " source=" EggsWithTomato " target=" DodishTemplate " >
+</ralations> 
