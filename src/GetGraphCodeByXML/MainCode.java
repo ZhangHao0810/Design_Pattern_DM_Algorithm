@@ -1,4 +1,4 @@
-package GetGraphCodeByXML.code;
+package GetGraphCodeByXML;
 
 import GetGraphCodeByXML.bean.EdgeBean;
 import GetGraphCodeByXML.bean.VertexBean;
